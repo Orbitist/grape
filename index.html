@@ -198,7 +198,7 @@ function orbitistPopup(feature, layer) {
 }
 
 // Set cluster var
-var markers = L.markerClusterGroup({maxClusterRadius: 25, disableClusteringAtZoom: 17});
+var markers = L.markerClusterGroup({maxClusterRadius: 25});
 
 // Add markers to map based on geojson
 var geoJsonLayer = L.geoJson(orbitistGeoJson, {
