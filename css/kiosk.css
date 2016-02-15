@@ -1,0 +1,11 @@
+.story-slide.in {
+	right: 150px;
+	left: 150px;
+}
+
+.story-slide {
+	left: -150px;
+	top: 30px;
+	background-color: rgba(0,0,0,0.85);
+	color: white;
+}
