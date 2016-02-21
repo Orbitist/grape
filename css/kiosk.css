@@ -2,8 +2,9 @@
 	top: 30px;
 	background-color: rgba(255,255,255,0.85);
 	min-width: 90%;
+	float: right;
 }
 
 .story-slide.in {
-	right: 10%;
+	right: 50%;
 }
