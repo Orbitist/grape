@@ -3,6 +3,7 @@
 	background-color: rgba(28, 141, 133, 0.85);
 	min-width: 80%;
 	min-height: 80%;
+	right: -5000;
 }
 
 .story-slide.in {
