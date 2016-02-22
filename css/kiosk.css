@@ -8,10 +8,10 @@
 }
 
 .story-slide.in {
-	min-width: 75%;
-	min-height: 75%;
+	right: 10%;
 }
 
 .map-button btn-explore btnmapinfo{
-	min-height
+	min-width: 80%;
+	min-height: 80%;
 }
