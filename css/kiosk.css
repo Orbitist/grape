@@ -30,4 +30,5 @@
 
 .explore-container .map-button{
 	box-shadow: 5px 4px 5px rgba(0, 0, 0, 0.5);
+	border-radius: 4px;
 }
