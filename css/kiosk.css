@@ -10,3 +10,13 @@
 .story-slide.in {
 	right: 10%;
 }
+
+.mapinfo img{
+	padding: 6px;
+}
+
+.story-slide-content{
+	margin-top: -200px;
+	background-color: rgba(0,0,0,.6);
+	position: relative;
+}
