@@ -2,7 +2,7 @@
 	top: 30px;
 	background-color: rgb(84, 13, 68);
 	min-width: 80%;
-	min-height: 512px;
+	min-height: 545px;
 	color: rgb(255,255,255);
 	right: -1500px;
 }
@@ -16,6 +16,7 @@
 }
 
 .story-slide-content{
+	margin: 0 6px;
 	margin-top: -200px;
 	background-color: rgba(0,0,0,.6);
 	position: relative;
@@ -23,6 +24,10 @@
 
 .explore-container{
 	position: absolute;
-	bottom: 0px;
+	bottom: 16px;
 	width: 100%;
+}
+
+.explore-container .map-button{
+	box-shadow: 5px 4px 5px rgba(0, 0, 0, 0.5);
 }
