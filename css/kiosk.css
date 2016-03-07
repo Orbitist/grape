@@ -15,6 +15,10 @@
 	padding: 6px;
 }
 
+.img-responsive{
+	float: left;
+}
+
 .story-slide-content{
 	margin: 0 6px;
 	margin-top: -200px;
