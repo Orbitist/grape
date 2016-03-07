@@ -47,6 +47,9 @@
 		<!-- Twitter Widjet Script -->
 		<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 		
+		<!-- Instagram Widjet Script -->
+		<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+		
 		<!-- Wistia Embed Script -->
 		<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js" async></script>
 
@@ -255,10 +258,11 @@ document.location.href = noddy.href;
 }
 </script>
 
-  <!-- Deal with Tweets -->
+  <!-- Deal with Tweets and Instagram -->
 	<script>
 		window.setInterval(function(){
-			twttr.widgets.load()
+			twttr.widgets.load(),
+			instgrm.Embeds.process()
 		}, 500);
 	</script>
 
