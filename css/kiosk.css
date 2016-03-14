@@ -45,3 +45,9 @@
 .cartodb-legend .in{
 	right: 20px;
 }
+
+.carto-key{
+	position: fixed;
+	right: 5px;
+	bottom: 5px;
+}
