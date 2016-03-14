@@ -40,6 +40,8 @@
 
 div.cartodb-legend-stack{
 	right: -800px;
+	-webkit-transition: right 0.5s;
+	transition: right 0.5s;
 }
 
 .cartodb-legend-stack-in{
@@ -51,3 +53,4 @@ div.cartodb-legend-stack{
 	right: 5px;
 	bottom: 5px;
 }
+
