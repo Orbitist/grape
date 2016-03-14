@@ -38,11 +38,11 @@
 	border-radius: 4px;
 }
 
-.cartodb-legend-stack{
+div.cartodb-legend-stack{
 	right: -800px;
 }
 
-.cartodb-legend .in{
+div.cartodb-legend .in{
 	right: 20px;
 }
 
