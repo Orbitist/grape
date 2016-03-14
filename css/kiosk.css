@@ -39,7 +39,7 @@
 }
 
 div.cartodb-legend-stack{
-	right: -800px;
+	right: -800px !important;
 }
 
 div.cartodb-legend .in{
