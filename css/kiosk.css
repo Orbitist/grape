@@ -37,3 +37,11 @@
 	box-shadow: 5px 4px 5px rgba(0, 0, 0, 0.5);
 	border-radius: 4px;
 }
+
+.cartodb-legend-stack{
+	right: -800px;
+}
+
+.cartodb-legend .in{
+	right: 20px;
+}
