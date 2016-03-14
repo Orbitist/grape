@@ -42,7 +42,7 @@ div.cartodb-legend-stack{
 	right: -800px !important;
 }
 
-div.cartodb-legend-stack .in{
+div.cartodb-legend-stack div.in{
 	right: 20px !important;
 }
 
