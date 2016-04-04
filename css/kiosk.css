@@ -25,6 +25,8 @@
 	margin-top: 8px;
 	background-color: rgba(0,0,0,.6);
 	position: relative;
+	height: 50px;
+	border-radius: 4px;
 }
 
 .explore-container{
