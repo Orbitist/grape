@@ -23,7 +23,7 @@
 .story-slide-content{
 	margin: 0 6px;
 	margin-top: 8px;
-	background-color: rgba(0,0,0,.6);
+	background-color: rgba(0,0,0, 1);
 	position: relative;
 	border-radius: 4px;
 }
